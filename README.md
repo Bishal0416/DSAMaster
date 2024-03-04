@@ -1,4 +1,4 @@
-# DSAMaster
+# DSAMaster(STRIVER A2Z)
 ## Topic -SORT
 | Topic Name  | Problem Link |
 | ------------- | ------------- |
